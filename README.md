@@ -1,6 +1,6 @@
-# Document Analyzer Example
+# document-analyzer-agent (Every Day AI Agent Twitter Series Day -8- Agent)
 
-This example demonstrates how to use the **Upsonic** framework to extract the company name from a Turkish Tax Certificate (Vergi Levhası).
+This example demonstrates how to use the **Upsonic** framework to extract the company name from a Turkish Tax Certificate.
 
 ---
 
